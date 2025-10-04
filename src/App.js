@@ -17,9 +17,9 @@ function App() {
       <section className="container mx-auto px-6 py-20 text-center">
         <div className="mb-8">
           <img
-            src="/images/mountain.svg"
-            alt="Mountain"
-            className="w-48 h-48 mx-auto object-contain"
+            src="/images/profile.jpg"
+            alt="Profile"
+            className="w-48 h-48 mx-auto object-cover rounded-full"
           />
         </div>
         <h2 className="text-5xl md:text-7xl font-bold text-white mb-6">
